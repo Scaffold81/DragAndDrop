@@ -1,0 +1,923 @@
+fileFormatVersion: 2
+guid: 86110c48d46ba3c49abb31a494731128
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 751
+        width: 199
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e06e47a5e59c30e438cb2fd3c14cbbe4
+      internalID: 511082835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_1
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 688
+        width: 163
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff045210f7238564ba8754efbe9579be
+      internalID: -1028161120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_2
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 712
+        width: 74
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfe663a33bce64a468c6790ea84a6afe
+      internalID: 724580254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_3
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 723
+        width: 134
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69833f50f120a7d41a5cb6a16dacbb44
+      internalID: 1749618538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_4
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 745
+        width: 104
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b75b193e741b845a371db28214541e
+      internalID: -888864213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_5
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 720
+        width: 66
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdb43df28f9e9e44bb6b7a72a3e87be
+      internalID: 552904834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_6
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 658
+        width: 127
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 810906688e8721d46ab98aa71ec9ccbb
+      internalID: 222175071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_7
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 581
+        width: 48
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b83b1b6e9076f14591ec9c987f3dcba
+      internalID: -484683575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_8
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 528
+        width: 67
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b0fa56ee086f942926fc1fb1dd99eb
+      internalID: 2099974791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_9
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 616
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb3b299633862ab41b429bdc2e1c7448
+      internalID: 1667650719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_10
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 598
+        width: 146
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f192f73bc4dfa0e41967d4a579e67f16
+      internalID: 383732557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_11
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 574
+        width: 200
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 325e2eaa6bc512e438aeec468f507b31
+      internalID: 835580894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_12
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 469
+        width: 128
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4d218e6c2961646a52511bc0025795
+      internalID: 1198595259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_13
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 392
+        width: 101
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dcf733490ab350c438704e25a36dcfaa
+      internalID: -894983420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_14
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 384
+        width: 97
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13af1903d05bec34b9eed3245626740d
+      internalID: -2081607350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_15
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 487
+        width: 78
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff3481b2ad2ff8545b2260c565fbf3dd
+      internalID: 316797814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_16
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 380
+        width: 43
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9680928d5c295a4296aaa16d6c687f4
+      internalID: -725042738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_17
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 376
+        width: 91
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f9acbb8978e114cbdd4149f7d9220f
+      internalID: 1913110866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_18
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 255
+        width: 139
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf08e06e7529ae4ba7e683192f5bd92
+      internalID: -1857070758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_19
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 299
+        width: 133
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53c68279f8a56964cafba85f875d8c73
+      internalID: -677022214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_20
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 396
+        width: 260
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d4809bbbe8f22408f79dcac3f5ffbc
+      internalID: -909813816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_21
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 167
+        width: 127
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62c31f597451f1047a58e7c52a6d7551
+      internalID: -986432856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_22
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 240
+        width: 146
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81fab6f8c9a55e045b93af66cba56fdb
+      internalID: 1967350609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_23
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 157
+        width: 70
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc1606d8296c8d448f15056ffb289f2
+      internalID: -254948352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_24
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 204
+        width: 40
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174539110cfbe9640893227703e9f273
+      internalID: -1429334091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_25
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 144
+        width: 65
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 633eaf30b4d40c54da76125938d929e9
+      internalID: -1427519953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_26
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 248
+        width: 121
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87814fe3aa09d9542b81c4de2b250409
+      internalID: 486566378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_27
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1
+        width: 183
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c58a54ae123e8da478f93b66973ffb18
+      internalID: -1627359185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_28
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 117
+        width: 86
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41032c7e3f5b82140b33a96d4742173c
+      internalID: 620846987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_29
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 113
+        width: 98
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc307d248eeb4e4faeab98cd3545cce
+      internalID: 1941515593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_30
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 27
+        width: 96
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d68f0b03ca011394db9751e147430e4f
+      internalID: -1301111848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_31
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 14
+        width: 83
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d56fbd2e18115149adae467f9d10454
+      internalID: 2146373821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_32
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 19
+        width: 133
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86c33658a8f19134db89146bea345938
+      internalID: -496749035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_33
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 9
+        width: 82
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 478a77fb6b79eb748a7cadfbe949ab89
+      internalID: -751042300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: veshchi-dlia-bumazhnogo-domika-toka-boka-199_34
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 9
+        width: 154
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4686ab59a2ae3ee4788e7fbd97b9bd52
+      internalID: 838896084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: a44657cd63829e94cad96f19011d432f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_0: 511082835
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_1: -1028161120
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_10: 383732557
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_11: 835580894
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_12: 1198595259
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_13: -894983420
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_14: -2081607350
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_15: 316797814
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_16: -725042738
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_17: 1913110866
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_18: -1857070758
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_19: -677022214
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_2: 724580254
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_20: -909813816
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_21: -986432856
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_22: 1967350609
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_23: -254948352
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_24: -1429334091
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_25: -1427519953
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_26: 486566378
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_27: -1627359185
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_28: 620846987
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_29: 1941515593
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_3: 1749618538
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_30: -1301111848
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_31: 2146373821
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_32: -496749035
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_33: -751042300
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_34: 838896084
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_4: -888864213
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_5: 552904834
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_6: 222175071
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_7: -484683575
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_8: 2099974791
+      veshchi-dlia-bumazhnogo-domika-toka-boka-199_9: 1667650719
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityProjects\\DragAndDrop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{341A9A86-CD97-E109-4C32-3789A3FAFB55}|Assembly-CSharp.csproj|d:\\unityprojects\\draganddrop\\assets\\scripts\\interactableobjects\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A9A86-CD97-E109-4C32-3789A3FAFB55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactableobjects\\itembase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A9A86-CD97-E109-4C32-3789A3FAFB55}|Assembly-CSharp.csproj|d:\\unityprojects\\draganddrop\\assets\\scripts\\interactableobjects\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A9A86-CD97-E109-4C32-3789A3FAFB55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactableobjects\\interactableobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{341A9A86-CD97-E109-4C32-3789A3FAFB55}|Assembly-CSharp.csproj|d:\\unityprojects\\draganddrop\\assets\\scripts\\interactableobjects\\interactableshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{341A9A86-CD97-E109-4C32-3789A3FAFB55}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\interactableobjects\\interactableshelf.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InteractableShelf.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\DragAndDrop\\Assets\\Scripts\\InteractableObjects\\InteractableShelf.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractableObjects\\InteractableShelf.cs",
+              "ToolTip": "D:\\UnityProjects\\DragAndDrop\\Assets\\Scripts\\InteractableObjects\\InteractableShelf.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractableObjects\\InteractableShelf.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:24:52.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InteractableObject.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\DragAndDrop\\Assets\\Scripts\\InteractableObjects\\InteractableObject.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractableObjects\\InteractableObject.cs",
+              "ToolTip": "D:\\UnityProjects\\DragAndDrop\\Assets\\Scripts\\InteractableObjects\\InteractableObject.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractableObjects\\InteractableObject.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAcwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:22:35.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ItemBase.cs",
+              "DocumentMoniker": "D:\\UnityProjects\\DragAndDrop\\Assets\\Scripts\\InteractableObjects\\ItemBase.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InteractableObjects\\ItemBase.cs",
+              "ToolTip": "D:\\UnityProjects\\DragAndDrop\\Assets\\Scripts\\InteractableObjects\\ItemBase.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InteractableObjects\\ItemBase.cs",
+              "ViewState": "AgIAADUAAAAAAAAAAAAIwFIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-17T00:15:38.65Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
